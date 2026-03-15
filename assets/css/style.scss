@@ -1,0 +1,26 @@
+---
+---
+@import "{{ site.theme }}";
+
+// This sets your bridge as the background
+body {
+  background: url('{{ "/bridge.jpg" | relative_url }}') no-repeat center center fixed;
+  background-size: cover;
+}
+
+// This creates the "floating" white box for your text
+.main-content {
+  background: rgba(255, 255, 255, 0.95); // Mostly solid white
+  border: none;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3); // Adds a soft shadow so it "floats"
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 40px;
+  border-radius: 15px;
+}
+
+// This changes your header color to a professional Navy Blue
+.page-header {
+  background-color: #002D62; 
+  background-image: none;
+}
