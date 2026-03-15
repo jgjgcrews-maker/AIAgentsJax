@@ -29,3 +29,5 @@ Whether you need chatbots, image recognition, or natural language processing, we
 If you're tired of wasting time on mundane tasks and want to focus on what matters most - growing your business and achieving your goals - let's talk about how AI can help.
 
 What do you say? Are there any other tedious tasks that have been holding you back from reaching new heights?
+
+https://github.com/jgjgcrews-maker/Content-to-lead-into-Main/commit/b4c71f9146dc57eed8b88e26334f4a31cd17155d#diff-3f5637410846d545fb4f35d3a5d201f494216e9c68da12f21357c15d6e5f25e7R1-R7
