@@ -24,3 +24,79 @@ body {
   background-color: #002D62; 
   background-image: none;
 }
+---
+---
+@import "{{ site.theme }}";
+
+/* 1. THE FLOATING CONTENT BOX */
+.main-content {
+  /* Creates the semi-transparent floating look for the Serenitas text */
+  background: rgba(255, 255, 255, 0.96); 
+  border: none;
+  box-shadow: 0 15px 35px rgba(0,0,0,0.4); /* Heavy shadow to make it "float" over the bridge image */
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 40px;
+  border-radius: 12px;
+}
+
+/* 2. HEADER STYLING */
+.page-header {
+  background-color: #002D62; /* Professional Navy Blue */
+  background-image: none;
+  padding: 2rem 4rem;
+}
+
+/* 3. NAVIGATION BAR & DROPDOWN STYLING */
+.nav-bar {
+  display: flex;
+  justify-content: center;
+  background: #002D62;
+  margin-bottom: 25px;
+  border-radius: 0 0 8px 8px;
+}
+
+.nav-item, .dropbtn {
+  background-color: inherit;
+  color: white;
+  padding: 14px 20px;
+  font-size: 16px;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.dropdown { 
+  position: relative; 
+  display: inline-block; 
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #ffffff;
+  min-width: 220px;
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+  z-index: 99;
+  text-align: left;
+  border-radius: 4px;
+}
+
+.dropdown-content a {
+  color: #333;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  border-bottom: 1px solid #eee;
+}
+
+.dropdown-content a:last-child { border-bottom: none; }
+
+.dropdown:hover .dropdown-content { 
+  display: block; 
+}
+
+.nav-item:hover, .dropdown:hover .dropbtn { 
+  background-color: #004a99; 
+}
