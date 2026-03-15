@@ -1,22 +1,8 @@
----
----
-@import "jekyll-theme-modernist";
-
-/* CUSTOM STYLES FOR AI AGENTS JAX */
-.main-content {
-  background: rgba(255, 255, 255, 0.96); 
-  border: none;
-  box-shadow: 0 15px 35px rgba(0,0,0,0.4);
-  max-width: 900px;
-  margin: 40px auto;
-  padding: 40px;
-  border-radius: 12px;
-}
-
-.page-header {
-  background-color: #002D62; 
-  background-image: none;
-  padding: 2rem 4rem;
+Body {
+  Background-image: url(“bridge.jpg”);
+  Background-size: cover;
+  Background-attachment: fixed;
+  Background-position: center;
 }
 
 .nav-bar {
