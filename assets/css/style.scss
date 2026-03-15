@@ -1,53 +1,24 @@
 ---
 ---
-@import "{{ site.theme }}";
+@import "jekyll-theme-modernist";
 
-// This sets your bridge as the background
-body {
-  background: url('{{ "/bridge.jpg" | relative_url }}') no-repeat center center fixed;
-  background-size: cover;
-}
-
-// This creates the "floating" white box for your text
+/* CUSTOM STYLES FOR AI AGENTS JAX */
 .main-content {
-  background: rgba(255, 255, 255, 0.95); // Mostly solid white
-  border: none;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.3); // Adds a soft shadow so it "floats"
-  max-width: 900px;
-  margin: 40px auto;
-  padding: 40px;
-  border-radius: 15px;
-}
-
-// This changes your header color to a professional Navy Blue
-.page-header {
-  background-color: #002D62; 
-  background-image: none;
-}
----
----
-@import "{{ site.theme }}";
-
-/* 1. THE FLOATING CONTENT BOX */
-.main-content {
-  /* Creates the semi-transparent floating look for the Serenitas text */
   background: rgba(255, 255, 255, 0.96); 
   border: none;
-  box-shadow: 0 15px 35px rgba(0,0,0,0.4); /* Heavy shadow to make it "float" over the bridge image */
+  box-shadow: 0 15px 35px rgba(0,0,0,0.4);
   max-width: 900px;
   margin: 40px auto;
   padding: 40px;
   border-radius: 12px;
 }
 
-/* 2. HEADER STYLING */
 .page-header {
-  background-color: #002D62; /* Professional Navy Blue */
+  background-color: #002D62; 
   background-image: none;
   padding: 2rem 4rem;
 }
 
-/* 3. NAVIGATION BAR & DROPDOWN STYLING */
 .nav-bar {
   display: flex;
   justify-content: center;
@@ -64,7 +35,6 @@ body {
   border: none;
   text-decoration: none;
   cursor: pointer;
-  font-family: inherit;
 }
 
 .dropdown { 
@@ -88,10 +58,7 @@ body {
   padding: 12px 16px;
   text-decoration: none;
   display: block;
-  border-bottom: 1px solid #eee;
 }
-
-.dropdown-content a:last-child { border-bottom: none; }
 
 .dropdown:hover .dropdown-content { 
   display: block; 
