@@ -21,6 +21,9 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
 
 [Contact for Consultation](mailto:your-email@aiagentsjax.com)
 <style>
+
+  ---
+ 
   body {
     background-image: url("https://github.com/jgjgcrews-maker/AIAgentsJax/blob/main/bridge.jpg?raw=true");
     background-size: cover;
