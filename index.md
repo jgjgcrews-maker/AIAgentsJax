@@ -28,23 +28,4 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
     background-attachment: fixed;
     background-position: center;
   }
- /* Float the text to the left */
-  .float-text {
-    float: left;
-  }
-  /* Add a dropdown box at the top of the page */
-  .dropdown {
-    position: absolute;
-    top: 0;
-    right: 0;
-  }
-</style
----
-<div class="dropdown">
-  <ul>
-    <li><a href="#">Home</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Contact</a></li>
-  </ul>
-</div>
----
+
