@@ -24,10 +24,25 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
 ---
 
 <style>
- body {
+  body {
     background-image: url("https://github.com/jgjgcrews-maker/AIAgentsJax/blob/main/bridge.jpg?raw=true");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
   }
-</style>
+  
+  /* Float the text to the left */
+  .float-text {
+    float: left;
+  }
+  
+  /* Add a dropdown box at the top of the page */
+  .dropdown {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+</style
+
+---
+
