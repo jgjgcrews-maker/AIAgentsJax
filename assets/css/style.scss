@@ -1,7 +1,3 @@
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-</head> 
-
 body {
   background-image: url("https://raw.githubusercontent.com/jgjgcrewsmaker/aiagentsjax/master/images/bridge.jpg");
   background-size: cover;
@@ -17,21 +13,12 @@ body {
   border-radius: 0 0 8px 8px;
 }
 
-.nav-item, .dropbtn {
-  color: white;
-  padding: 14px 20px;
-  font-size: 16px;
-  border: none;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.dropdown { 
-  position: relative; 
+.dropdown {
+  position: relative;
   display: inline-block;
 }
 
- .dropdown-content {
+.dropdown-content {
   display: none;
   position: absolute;
   background-color: #ffffff;
@@ -42,17 +29,26 @@ body {
   border-radius: 4px;
 }
 
- .dropdown-content a {
+.dropdown-content a {
   color: #333;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
 }
 
- .dropdown:hover .dropdown-content { 
-  display: block; 
+.nav-item, .dropbtn {
+  color: white;
+  padding: 14px 20px;
+  font-size: 16px;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
 }
 
- .nav-item:hover, .dropdown:hover .dropbtn { 
-  background-color: #004a99; 
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.nav-item:hover, .dropdown:hover .dropbtn {
+  background-color: #004a99;
 }
