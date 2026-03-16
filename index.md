@@ -30,12 +30,16 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
     background-attachment: fixed;
     background-position: center;
   }
-  
+
+  ---
+ 
   /* Float the text to the left */
   .float-text {
     float: left;
   }
-  
+
+  ---
+ 
   /* Add a dropdown box at the top of the page */
   .dropdown {
     position: absolute;
