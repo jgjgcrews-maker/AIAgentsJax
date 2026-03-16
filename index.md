@@ -20,5 +20,11 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
 * **Step 3:** Optimize and scale.
 
 [Contact for Consultation](mailto:your-email@aiagentsjax.com)
-
-<img src="https://github.com/jgjgcrews-maker/AIAgentsJax/blob/main/bridge.jpg?raw=true" alt="Bridge Image">
+<style>
+  body {
+    background-image: url("https://github.com/jgjgcrews-maker/AIAgentsJax/blob/main/bridge.jpg?raw=true");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+  }
+</style>
