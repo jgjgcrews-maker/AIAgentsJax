@@ -1,12 +1,11 @@
 ---
 ---
-@import “jekyll-theme-modernist”;
+@import “{{ site.theme }}";
 
 body {
-  background-image: url(“/bridge.jpg”) !important;
-  background-size: cover !important;
-  background-attachment: fixed !important;
-  background-position: center !important;
+  background-image: url(“/bridge.jpg”);
+  background-size: cover; 
+  background-attachment: fixed; 
 }
 
 .nav-bar {
