@@ -1,6 +1,8 @@
 Title:  AI Agents Jax
 description: AI-powered agents for small businesses 
-/*remote_theme: pages-themes/modernist@v0.2.0*/
+remote_theme: pages-themes/modernist@v0.2.0
 
-css:
-  include: assets/css/your-custom-styles.css
+body {
+      background-image: url("https://raw.githubusercontent.com/jgjgcrewsmaker/aiagentsjax/master/images/bridge.jpg");
+      /* ... other styles here */
+    }
