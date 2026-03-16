@@ -20,9 +20,7 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
 * **Step 3:** Optimize and scale.
 
 [Contact for Consultation](mailto:your-email@aiagentsjax.com)
-
 ---
-
 <style>
   body {
     background-image: url("https://github.com/jgjgcrews-maker/AIAgentsJax/blob/main/bridge.jpg?raw=true");
@@ -30,16 +28,10 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
     background-attachment: fixed;
     background-position: center;
   }
-
-  ---
- 
-  /* Float the text to the left */
+ /* Float the text to the left */
   .float-text {
     float: left;
   }
-
-  ---
- 
   /* Add a dropdown box at the top of the page */
   .dropdown {
     position: absolute;
@@ -47,9 +39,7 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
     right: 0;
   }
 </style
-
 ---
-
 <div class="dropdown">
   <ul>
     <li><a href="#">Home</a></li>
@@ -57,3 +47,4 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
     <li><a href="#">Contact</a></li>
   </ul>
 </div>
+---
