@@ -1,1 +1,32 @@
+/* Float the text to the left */
+.float-text {
+  float: left;
+}
 
+/* Add a dropdown box at the top of the page */
+.dropdown {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+/* Style the dropdown menu */
+.dropdown ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.dropdown li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.dropdown a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.dropdown a:hover {
+  background-color: #333;
+}
