@@ -2,14 +2,14 @@
   <link rel="stylesheet" href="styles.css">
 </head> 
 
-  body {
+body {
   background-image: url("https://raw.githubusercontent.com/jgjgcrewsmaker/aiagentsjax/master/images/bridge.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
 }
 
-  .nav-bar {
+.nav-bar {
   display: flex;
   justify-content: center;
   background-color: #002D62;
@@ -17,7 +17,7 @@
   border-radius: 0 0 8px 8px;
 }
 
-  .nav-item, .dropbtn {
+.nav-item, .dropbtn {
   color: white;
   padding: 14px 20px;
   font-size: 16px;
@@ -26,12 +26,12 @@
   cursor: pointer;
 }
 
-/*.dropdown { 
+.dropdown { 
   position: relative; 
-  display: inline-block;*/
+  display: inline-block;
 }
 
-.dropdown-content {
+/*.dropdown-content {
   display: none;
   position: absolute;
   background-color: #ffffff;
@@ -39,7 +39,7 @@
   box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
   z-index: 99;
   text-align: left;
-  border-radius: 4px;
+  border-radius: 4px;*/
 }
 
 .dropdown-content a {
