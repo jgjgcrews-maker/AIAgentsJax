@@ -1,10 +1,10 @@
 Title:  AI Agents Jax
 description: AI-powered agents for small businesses 
 css:
-  include: |
-    body {
-      background-image: url("https://github.com/jgjgcrews-maker/AIAgentsJax/blob/main/bridge.jpg?raw=true");
-      background-size: cover;
-      background-attachment: fixed;
-      background-position: center;
-    }
+  include: |body {
+  background-image: url("https://github.com/jgjgcrews-maker/AIAgentsJax/blob/main/bridge.jpg?raw=true");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+   
