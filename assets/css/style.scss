@@ -1,11 +1,12 @@
----
----
+
+
+
 @import “jekyll-theme-modernist”;
 
 body {
-  /* this is the line that gets your image */
+  /* This is the line that gets your image */
   background-image: url(“/bridge.jpg”) !important; 
-  /* these lines make it cover the whole screen and stay centered */
+  /* These lines make it cover the whole screen and stay centered */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
