@@ -19,7 +19,7 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
 * **Step 2:** Deploy a custom AI agent.
 * **Step 3:** Optimize and scale.
 
-[Contact for Consultation](mailto:your-email@aiagentsjax.com)
+####[Contact for Consultation](mailto:your-email@aiagentsjax.com)
 ---
 <style>
   body {
@@ -30,6 +30,11 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
   }
 ---
  /* Change the text color to light blue */
-  span[Serenitas], span[At AI Agents Jax], span[Step] {
+  * {
     color: #87CEEB; /* Light blue color */
   }
+  /* Make bold letters very light blue */
+  b, strong {
+    color: #ADD8E6; /* Very light blue color */
+  }
+</style>
