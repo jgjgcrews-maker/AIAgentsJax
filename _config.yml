@@ -14,19 +14,3 @@ layout: default
   <h1 class="float-text">Welcome to AI Agents Jax!</h1>
   <p>AI-powered agents for small businesses.</p>
 </div>
----
-css:
-  include: background-image.css
-layout: default
----
-<div class="container">
-  <div class="dropdown">
-    <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About</a></li>
-      <li><a href="#">Contact</a></li>
-    </ul>
-  </div>
-  <h1 class="float-text">Welcome to AI Agents Jax!</h1>
-  <p>AI-powered agents for small businesses.</p>
-</div>
