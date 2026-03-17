@@ -29,3 +29,8 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
     background-position: center;
   }
 
+/* Change the text color to light blue */
+  span[Serenitas], span[At AI Agents Jax], span[Step] {
+    color: #87CEEB; /* Light blue color */
+  }
+</style>
