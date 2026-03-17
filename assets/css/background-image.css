@@ -4,7 +4,3 @@ body {
   background-attachment: fixed;
   background-position: center;
 }
-/* Change the text color to a light blue */
-body, h1, h2, p {
-  color: #87CEEB; /* Light blue color */
-}
