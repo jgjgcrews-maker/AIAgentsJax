@@ -2,26 +2,4 @@
 css:
   include: background-image.css
 layout: default
----
-<div class="dropdown">
-  <ul>
-    <li><a href="#">Home</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Contact</a></li>
-  </ul>
-</div>
 
-<h1 class="float-text">Welcome to AI Agents Jax!</h1>
-
-<div class="container">
-  <p>AI-powered agents for small businesses.</p>
-</div>
----
-<div class="container">
-  <div class="medium-box" style="background-color: #f0f0f0; width: 80%; height: 200px; margin-top: 20px; padding: 10px;">
-    <!-- Add animation or image here -->
-    <h2>Get Started</h2>
-    <p>Discover how AI Agents Jax can help your business grow.</p>
-    <button>Learn More</button>
-  </div>
-</div>
