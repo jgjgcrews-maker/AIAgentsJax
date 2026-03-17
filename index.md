@@ -28,13 +28,3 @@ At **AI Agents Jax**, we focus on building intelligent, automated solutions tail
     background-attachment: fixed;
     background-position: center;
   }
----
- /* Change the text color to light blue */
-  * {
-    color: #87CEEB; /* Light blue color */
-  }
-  /* Make bold letters very light blue */
-  b, strong {
-    color: #ADD8E6; /* Very light blue color */
-  }
-</style>
